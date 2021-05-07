@@ -35,7 +35,7 @@ In secret, between the shadow and the soul."<br> </p>
  <p style="border:2px solid powderblue; margin:30px">
  <p style="font-size:150%; font-family:Perpetua; font-weight:bold;" > 'Oh Love !'</p>
  <img src="https://hdwallpaperim.com/wp-content/uploads/2017/08/26/206320-women-nature-mountain-grass-river-748x503.jpg" alt="love" width="300" height="200">
- <p style="font-size:100%; font-family:Tw Cen MT; margin:30px: font-weight:bold;">
+ <p style="font-size:100%; font-family:Tw Cen MT; margin:30px: font-weight:bold;color:blue;">
  When I looked into your eyes,<br>
 Your Gaze has Pierced my <br>
 Heart so badly,<br>
