@@ -33,7 +33,7 @@ In secret, between the shadow and the soul."<br> </p>
  Always you are more and<br>
  More and more.<br></p>
  <p style="border:2px solid powderblue; margin:30px">
- <p style="font-size:150%; font-family:Perpetua; font-weight:bold; color:blue > 'Oh Love !'</p>
+ <p style="font-size:150%; font-family:Perpetua; font-weight:bold; color:blue;" > 'Oh Love !'</p>
  <img src="https://hdwallpaperim.com/wp-content/uploads/2017/08/26/206320-women-nature-mountain-grass-river-748x503.jpg" alt="love" width="300" height="200">
  <p style="font-size:100%; font-family:Tw Cen MT; margin:30px: font-weight:bold;">
  When I looked into your eyes,<br>
@@ -47,5 +47,4 @@ Of sun shine after rain,<br>
  Paralyzed thoughts a second .<br>
 Love , I’m completely <br>
 Drawn into you ! </p>
- </body>
- </html>
+
