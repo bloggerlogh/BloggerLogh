@@ -22,7 +22,7 @@ In secret, between the shadow and the soul."<br> </p>
 <p style=" border: 2px solid powderblue; margin:30px">
  <h3>My works : </h3>
  <p style="font-size:150%; font-weight:bold; color:darkblue"> 'You Are More'</p>
- <img src="https://images.unsplash.com/photo-1536063211352-0b94219f6212?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80" alt="You" width="250" height="200">
+ <img src="https://images.unsplash.com/photo-1536063211352-0b94219f6212?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80" alt="You" width="300" height="250">
 <p style="font-size:120%; ">
  That charming smile on your lips.<br>
  Makes adore you more.<br>
@@ -33,9 +33,9 @@ In secret, between the shadow and the soul."<br> </p>
  Always you are more and<br>
  More and more.<br></p>
  <p style="border:2px solid powderblue; margin:30px">
- <p style="font-size:150%; font-family:Perpetua; font-weight:bold;" > 'Oh Love !'</p>
+ <p style="font-size:150%; font-family:Perpetua; font-weight:bold; color:blue > 'Oh Love !'</p>
  <img src="https://hdwallpaperim.com/wp-content/uploads/2017/08/26/206320-women-nature-mountain-grass-river-748x503.jpg" alt="love" width="300" height="200">
- <p style="font-size:100%; font-family:Tw Cen MT; margin:30px: font-weight:bold;color:blue;">
+ <p style="font-size:100%; font-family:Tw Cen MT; margin:30px: font-weight:bold;">
  When I looked into your eyes,<br>
 Your Gaze has Pierced my <br>
 Heart so badly,<br>
@@ -47,6 +47,5 @@ Of sun shine after rain,<br>
  Paralyzed thoughts a second .<br>
 Love , I’m completely <br>
 Drawn into you ! </p>
-	 
  </body>
  </html>
