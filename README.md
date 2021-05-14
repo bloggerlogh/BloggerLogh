@@ -51,4 +51,19 @@ Drawn into you ! </p>
 	 <p style="font-size:150%; font-family:Perpetua; font-weight:bold; color:red;" > ' So Broken '</p>
 <img src="https://www.imagediamond.com/blog/wp-content/uploads/2019/01/sad-boy14.jpg" alt="Broke" width="300" height="200">
 <p style="font-size:120%; font-family:Tw Cen MT; margin:30px: font-weight:bold;">
+	You’re came as Thunder Strom
+ In my drizzling existence,
+Left me in never ending 
+Loop of your reminiscence.
+
+That adorableness of being
+Together are blown into vestiges.
+That deep bruise you left
+Is indication  of our perfectness.!
+
+It’s time to play an instrument 
+With broken stings,
+To end the once started song 
+Which is now scattered  showers.
+
 
