@@ -50,7 +50,7 @@ Drawn into you ! </p>
 <p style="border:2px solid powderblue; margin:30px">
 	 <p style="font-size:150%; font-family:Perpetua; font-weight:bold; color:yellow;" > ' So Broken '</p>
 <img src="https://www.imagediamond.com/blog/wp-content/uploads/2019/01/sad-boy14.jpg" alt="Broke" width="400" height="300">
-<p style="font-size:120%; font-family:impact; margin:30px: font-weight:bold;">
+<p style="font-size:120%; font-family:impact; margin:30px;">
 You’re came as Thunder Strom<br>
  In my drizzling existence,<br>
 Left me in never ending <br>
