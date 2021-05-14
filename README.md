@@ -51,7 +51,7 @@ Drawn into you ! </p>
 	 <p style="font-size:150%; font-family:impact; color:yellow;" > ' So Broken '</p>
 <img src="https://www.imagediamond.com/blog/wp-content/uploads/2019/01/sad-boy14.jpg" alt="Broke" width="400" height="300">
 <p style="font-size:120%; font-family:tahoma; margin:30px;">
-You’re came as Thunder Strom<br>
+You came as Thunder Strom<br>
  In my drizzling existence,<br>
 Left me in never ending <br>
 Loop of your reminiscence.<br>
