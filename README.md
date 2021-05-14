@@ -51,19 +51,19 @@ Drawn into you ! </p>
 	 <p style="font-size:150%; font-family:Perpetua; font-weight:bold; color:red;" > ' So Broken '</p>
 <img src="https://www.imagediamond.com/blog/wp-content/uploads/2019/01/sad-boy14.jpg" alt="Broke" width="300" height="200">
 <p style="font-size:120%; font-family:Tw Cen MT; margin:30px: font-weight:bold;">
-You’re came as Thunder Strom<b>
- In my drizzling existence,<b>
-Left me in never ending <b>
-Loop of your reminiscence.<b>
-<b>
-That adorableness of being<b>
-Together are blown into vestiges.<b>
-That deep bruise you left<b>
-Is indication  of our perfectness.!<b>
-<b>
-It’s time to play an instrument <b>
-With broken stings,<b>
-To end the once started song <b>
-Which is now scattered  showers.<b> </p>
+You’re came as Thunder Strom<br>
+ In my drizzling existence,<br>
+Left me in never ending <br>
+Loop of your reminiscence.<br>
+<br>
+That adorableness of being<br>
+Together are blown into vestiges.<br>
+That deep bruise you left<br>
+Is indication  of our perfectness.!<br>
+<br>
+It’s time to play an instrument <br>
+With broken stings,<br>
+To end the once started song <br>
+Which is now scattered  showers. </p>
 
 
